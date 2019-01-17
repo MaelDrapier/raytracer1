@@ -68,36 +68,11 @@ var:
 
 ## Authorized functions for this project:
 
-* C Math library (-lm)
-* C Libdl (-ldl)
-* Pthread library (-lpthread)
-* open
-* close
-* read
-* write
-* malloc
-* free
+C Math library (-lm), C Libdl (-ldl), Pthread library (-lpthread), `open`, `close`, `read`, `write`, `malloc`, `free`
 
 ### CSFML functions:
 
-* sfRenderWindow_isOpen
-* sfRenderWindow_pollEvent
-* sfRenderWindow_waitEvent
-* sfRenderWindow_clear
-* sfRenderWindow_drawSprite
-* sfRenderWindow_display
-* sfRenderWindow_create
-* sfRenderWindow_destroy
-* sfRenderWindow_close
-* sfTexture_create
-* sfTexture_updateFromPixels
-* sfTexture_destroy
-* sfSprite_create
-* sfSprite_setTexture
-* sfSprite_destroy
-* all of System module’s functions
-* all of Window module’s functions
-* all of Audio module’s functions
+`sfRenderWindow_isOpen`, `sfRenderWindow_pollEvent`, `sfRenderWindow_waitEvent`, `sfRenderWindow_clear`, `sfRenderWindow_drawSprite`, `sfRenderWindow_display`, `sfRenderWindow_create`, `sfRenderWindow_destroy`, `sfRenderWindow_close`, `sfTexture_create`, `sfTexture_updateFromPixels`, `sfTexture_destroy`, `sfSprite_create`, `sfSprite_setTexture`, `sfSprite_destroy`, all of System module’s functions, all of Window module’s functions, all of Audio module’s functions
  
 <br>
 
