@@ -1,7 +1,7 @@
 # raytracer1
 This project was one of my graphical projects from my first year at EPITECH (2016-2017)
 
-The goal of a raytracer is to **draw 3D objects** by using [raytracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)).
+The goal of a raytracer is to **draw 3D objects** using [raytracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)).
 
 _This is a very basic raytracer, but I made later (in a group of 4 people) a more advanced version, available_ [_here_](https://github.com/arthurphilippe/raytracer2).
 
